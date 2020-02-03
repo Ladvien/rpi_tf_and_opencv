@@ -24,7 +24,7 @@ import tensorflow as tf
 #################################
 # Parameters
 #################################
-model_save_dir           = '/home/pi/lego_sorter/data/'
+model_save_dir           = '/home/pi/rpi_tf_and_opencv/'
 model_filepath           = model_save_dir + 'model.h5'
 model_classes_filepath   = model_save_dir + 'classes.json'
 
